@@ -44,7 +44,7 @@ import { DeleteDialogComponent } from './delete-dialog/delete-dialog.component';
     MatTableModule,
     MatPaginatorModule,
     MatSortModule,
-    MatSnackBarModule,
+    MatSnackBarModule
   ],
   providers: [],
   bootstrap: [AppComponent],
